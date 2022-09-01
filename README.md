@@ -1,13 +1,13 @@
 # Pinia playground 🍍
 
-Playground project for having fun with [Pinia](https://pinia.vuejs.org/)
+Playground project for having fun with [Pinia](https://pinia.vuejs.org/). This project was generate using [Vite](https://vitejs.dev/).
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/dj0nny/pinia-playground.git
 ```
 
 Go to the project directory
